@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Light is Easy</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="css/main.css" />
+  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</head>
+
+<body>
+  <nav id="dot-nav"></nav>
+  <section id="header" class="content">
+    <h1>Light is Easy</h1>
+    <span>MEMBERS</span>
+    <!-- section buttons -->
+    <div class="buttons">
+      <div class="btn from-center"><a href="#page2">GO!<i data-feather="echevron-right"></i></a></div>
+    </div>
+  </section>
+  <section id="page2"></section>
+  <section id="page3">
+    <div class="rec1"></div>
+  <div class="pot context"><p>EQUIPMENT USED</p></div>
+  <div class="pot potter context1"><p>1. DCC Uno</p></div><br>
+  <div class="pot potter1 context1"><p>2. Code</p></div>
+  <div class="pot potter2 context1"><p>3. Sound sensor</p></div>
+  <div class="pot potter3 context1"><p>4. สายไฟmale to female 20 cm</p></div>
+  <div class="pot potter4 context1"><p>5. หลอดไฟ</p></div>
+  <div class="pot potter5 context1"><p>6. ขั้วหลอดไฟ</p></div>
+  <div class="pot potter6 context1"><p>7. ปลั๊กไฟ</p></div>
+  <div class="pot potter7 context1"><p>8. สายไฟ</p></div>
+  <div class="pot potter8 context1"><p>9. สายUSB</p></div>
+  <div class="pot potter9 context1"><p>10. Adapter 9V 1A</p></div>
+  <div class="pot potter10 context1"><p>11. Channel Relay(10A) with optocoupler Module</p></div>
+  <div class="rec2"></div>
+  <div class="rec3"></div>
+  <div class="rec4"></div>
+  <img src="https://ae01.alicdn.com/kf/H34adc69ebc7f40cfa5985674ac7d1f29R/UNO-R3-Development-BOARD-line-Expert-DCC.jpg" class="image1 i1"></img>
+  <img src="https://cf.shopee.co.th/file/1a3be0a28d86e985c702ebc088bad324" class="image1 i2"></img>
+  <img src="http://www.icstation.com/images/big/products/13534_2_3719.JPG" class="image1 i3"></img>
+  <img src="https://cf.shopee.co.th/file/852f3eca24c38fc9277e95f4b850f344" class="image1 i4"></img>
+  <img src="https://c.lnwfile.com/ixahlp.jpg" class="image1 i5"></img>
+  <img src="https://dy.lnwfile.com/tw1ei3.jpg" class="image1 i6"></img>
+  </section>
+  <section id="page4">
+  <div class="box3"></div>
+  <div class="box"></div>
+  <div class="pot1 contextt"><p>HOW TO DO?</p></div>
+  <div class="pot1 do contextt1"><p>1. ต่อปลั๊กตัวผู้</p></div><br>
+  <div class="pot1 do1 contextt1"><p>2. ตัดสายไฟของปลั๊กตัวผู้</p></div><br>
+  <div class="box2"></div>
+  <div class="box5"></div>
+  <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/182491412_468565437770104_3033844786902649459_n.png?_nc_cat=103&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEuv9GHai4NzAGYR9u1IP0tiMCncugV5E-IwKdy6BXkTwDsgkVdC3DFK-LEHigyws0GZyNwGS0me5TpYtwNUnpD&_nc_ohc=BicbGoBOb08AX8vXLPc&_nc_ht=scontent.fbkk12-4.fna&oh=2f38f8362e576448db1fb24fb41e7fee&oe=60B73ABE" class="image3 i10"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image2 i7"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image2 i8"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image2 i9"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image3 i11"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image2 i12"></img>
+  </section>
+  <section id="page5">
+  <div class="pot2 do2 contextt2"><p>3. ต่อขั้วปลั๊กเข้ากับฐานของหลอดไฟ</p></div><br>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i13"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i14"></img>
+  <div class="pot2 do3 contextt2"><p>4. ต่อสายไฟที่ตัดไว้เข้ากับ Relay<br>และแปะกาวสองหน้าไว้ที่ฐานของ Relay</p></div><br>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i15"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i16"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i17"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image4 i18"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image5 i19"></img>
+  </section>
+  <section id="page6">
+  <div class="pot3 do4 contextt3"><p>5. ต่อสายไฟเข้าเซนเซอร์เสียง</p></div><br>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image6 i20"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image6 i24"></img>
+  <div class="pot3 do5 contextt3"><p>6. นำสายไฟที่ต่อกับเซนเซอร์เสียงต่อเข้า Arduino</p></div><br>
+  <div class="pot3 do6 contextt3"><p>- D0 ต่อ IO7</p></div><br>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image6 i21"></img>
+  <div class="pot3 do7 contextt3"><p>- + ต่อ 5V<br>- G ต่อ GND</p></div><br>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image6 i22"></img>
+  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image7 i23"></img>
+  </section>
+  <section id="page7"></section>
+  <section id="page8"></section>
+  <section id="page9" class="content">
+    <!-- section buttons -->
+    <div class="buttons">
+      <div class="btn from-center"><a href="#header">To top<i data-feather="echevron-right"></i></a></div>
+    </div>
+  </section>
+  <script>
+    feather.replace()
+  </script>
+</body>
+</html>

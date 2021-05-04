@@ -23,7 +23,7 @@
   </section>
   <section id="page2"></section>
   <section id="page3">
-    <div class="rec1"></div>
+  <div class="rec1"></div>
   <div class="pot context"><p>EQUIPMENT USED</p></div>
   <div class="pot potter context1"><p>1. DCC Uno</p></div><br>
   <div class="pot potter1 context1"><p>2. Code</p></div>
@@ -36,7 +36,6 @@
   <div class="pot potter8 context1"><p>9. สายUSB</p></div>
   <div class="pot potter9 context1"><p>10. Adapter 9V 1A</p></div>
   <div class="pot potter10 context1"><p>11. Channel Relay(10A) with optocoupler Module</p></div>
-  <div class="rec2"></div>
   <div class="rec3"></div>
   <div class="rec4"></div>
   <img src="https://ae01.alicdn.com/kf/H34adc69ebc7f40cfa5985674ac7d1f29R/UNO-R3-Development-BOARD-line-Expert-DCC.jpg" class="image1 i1"></img>
@@ -60,6 +59,9 @@
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image2 i9"></img>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image3 i11"></img>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image2 i12"></img>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/181310124_131665262318154_6448310333935546112_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGJVaV1yO2zShaxNYaD2iAAJgzVNSaGMO4mDNU1JoYw7lmnKhfWa9SK0XGITdQ7Gf465uDdSAV7J9meaHsxjE_N&_nc_ohc=wFQgwFay5wIAX_lvUM0&_nc_oc=AQkyrAH2ee95TQKrEW7nsDOvHkzSqppRcZzc-KVA0TkiK2GvCjwsknVDI2dUrJNeCSE&_nc_ht=scontent.fbkk13-2.fna&oh=16f98543ff3dedfe6d309eb9e3275392&oe=60B6B335" class="photo p1"></img>
+  <img src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.15752-9/181569384_293683848920480_6480534638424444450_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGoEWD-ISqggt5bxprra8iGehlnsLnO4bd6GWewuc7htxyNQPOJOmALKkimrJRpRFmSDV1MSo5iyD7ey268diyu&_nc_ohc=HVSyNqOm0rQAX8UACYS&_nc_ht=scontent.fbkk12-3.fna&oh=cb86ff16824e9bd1d98ed64fe64ec65a&oe=60B8A1B3" class="photo p2"></img>
+  <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/181483412_514983223212490_3361792937212206061_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeE452dyZeVVBDw434Kma8SjSOxnIobIC4pI7GcihsgLikAqXRqi3yguNb6MDSVI8kHuFDNFW38JaQDAfbITZW8K&_nc_ohc=yP6Nq4xABdYAX9HjHwx&_nc_ht=scontent.fbkk12-4.fna&oh=60bec4ef8ee7bc913a000531eb3829d5&oe=60B8AAC4" class="photo p3"></img>
   </section>
   <section id="page5">
   <div class="pot2 do2 contextt2"><p>3. ต่อขั้วปลั๊กเข้ากับฐานของหลอดไฟ</p></div><br>
@@ -71,6 +73,11 @@
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image4 i17"></img>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image4 i18"></img>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image5 i19"></img>
+  <img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.15752-9/182105467_755787475128675_5039551281059043358_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEs95zGrznSvRJVVyw2dbG_wWWMNVFTMM7BZYw1UVMwzpJwQQUPZCjj9njhrH5TJlIQ28ZeAtN4M6aGJREhMPLS&_nc_ohc=7JW4yDniGHAAX8pw7Gj&_nc_ht=scontent.fbkk9-2.fna&oh=949c8266b93e646a8a87831c2aff5ec2&oe=60B6C7BC" class="photo1 p4"></img>
+  <img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.15752-9/181833792_500270891166823_3889512593434534782_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFjJVP2ibBOeniD2XXNQ-rB8tuQbVDQZU3y25BtUNBlTTXWsXyMdt2XIQTuuOkLKdQDv3Zpz0yQQL_XptjF5AUj&_nc_ohc=zB7E-V5ByVQAX-dPmHV&_nc_ht=scontent.fbkk9-2.fna&oh=eb36dfd2527e42c025dcffb0fafbf1c2&oe=60B7EF18" class="photo1 p5"></img>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/181386549_270677334775093_2784820336567272961_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFsqCMdVjpp7aDs7zwtxF5Mhe_D6Fp-m-iF78PoWn6b6GtlVGKQ4Q9hHjwQk-mr1n3N_AkOGYMeZ98yzggvqkR-&_nc_ohc=vtsYCylky50AX9IBA9M&_nc_ht=scontent.fbkk13-2.fna&oh=bd01e097c00582622d24b8e1b4507284&oe=60B5ACD1" class="photo1 p6"></img>
+  <img src="https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.15752-9/181178469_292978249212985_8227820521723317646_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFLzr6HPv_izX69mFgFmiXY4wYwCUdpdUPjBjAJR2l1Q3XWJtiQ2_pBYmMC5xw8S_Mjk3sz4fNZdtrHkcCc84qW&_nc_ohc=Fj-IGU6X02QAX9jKFQt&_nc_ht=scontent.fbkk13-1.fna&oh=30ee59a1d177cea476822d03f49471ee&oe=60B89918" class="photo1 p7"></img>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/176865131_765305094353437_7045306800276575284_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHSQDjHm9pcPb9VAJ2eZm_4UGeOq1DDzKdQZ46rUMPMp-dQxiBly35CJdchP8UiIml4wFdlypf0kdmw2AqonC5S&_nc_ohc=GZ4KaaKnkj8AX-eU9bS&_nc_ht=scontent.fbkk13-2.fna&oh=8dbe61ea5a96bcc6b3cf246fd32a8bfc&oe=60B67C1D" class="photo1 p8"></img>
   </section>
   <section id="page6">
   <div class="pot3 do4 contextt3"><p>5. ต่อสายไฟเข้าเซนเซอร์เสียง</p></div><br>
@@ -82,6 +89,9 @@
   <div class="pot3 do7 contextt3"><p>- + ต่อ 5V<br>- G ต่อ GND</p></div><br>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182072524_773732736648228_7580357474937247840_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHEi4fHz2YHeCaD-HbQ__OCMCGFJ6HA70AwIYUnocDvQBCMO0bE0Ul0wEHLutI9OnfI5p7aavQ4uA-YbUnGbIaT&_nc_ohc=6YZW96jASyMAX-MevyO&_nc_ht=scontent.fbkk12-1.fna&oh=14e74b450017993d246735012a938ccb&oe=60B56026" class="image6 i22"></img>
   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/182119286_577482479816010_5593486213634320752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGfPUSlRHcirzQtqpxB9mzqd81twDocv7t3zW3AOhy_u5Y56uTOUY_qxc4Hu4HoKHoqO5K5RNCJDXB9u7u-MSwf&_nc_ohc=Ek9JSwaVj-AAX-_BVcG&_nc_ht=scontent.fbkk12-1.fna&oh=8f77db956c568bcc6921246e002d76fc&oe=60B5BD45" class="image7 i23"></img>
+  <img src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/181244100_148820957198508_7463614944595636175_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeE8DtH0WcD25Vii2NSw8emFaymTKjycUhdrKZMqPJxSF2P4liizst6q5NW22AHuhLaWAujjp5bRhHjxEKk-ya-t&_nc_ohc=_MIe-h_hPMcAX8h5Mhj&_nc_ht=scontent.fbkk8-4.fna&oh=44f8f1ea5d711c5ef1e044584f62aa2d&oe=60B7456C" class="photo2 p9"></img>
+  <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/181445299_465537934679859_4764264229685802453_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGjqYyWkM-WkqPalL81PrnL2FCUiYWYACzYUJSJhZgALH-avd1rnO_mxBb7pSxRi_D0eOS4aG6yPBUGNDwd9w2F&_nc_ohc=Ws5lEf4ARSoAX9rpxFl&_nc_ht=scontent.fbkk12-2.fna&oh=1a060205db211d91b4eb991ce5384651&oe=60B67E74" class="photo2 p10"></img>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/182418302_243100960932250_9095345194042806440_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFM9iiZYqprZME1t1zQ2DCuq6wMBrMlztGrrAwGsyXO0aekQ7vwb4Of-hugCzXKoHEvLGHr_LZWxpLVDPcQMUER&_nc_ohc=qyJnSFNOp7YAX94qJkz&_nc_ht=scontent.fbkk13-2.fna&oh=36a06ed019b81913f39182f313f124b9&oe=60B6B413" class="photo2 p11"></img>
   </section>
   <section id="page7"></section>
   <section id="page8"></section>

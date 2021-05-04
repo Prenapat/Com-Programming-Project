@@ -464,27 +464,19 @@ nav#dot-nav.red a:first-child {
   top:60%;
   left: -53.6%;
 }
-.rec2{
-  position: absolute;
-  top:87%;
-  right:70%;
-  width:100px;
-  height:100px;
-  background:#F75BF0;
-}
 .rec3{
   position: absolute;
   top:87%;
-  right:47%;
-  width:100px;
+  left:17.1%;
+  width:261px;
   height:100px;
   background:#F75BF0;
 }
 .rec4{
   position: absolute;
   top:87%;
-  right:25%;
-  width:100px;
+  right:17.1%;
+  width:261px;
   height:100px;
   background:#F75BF0;
 }
@@ -625,6 +617,24 @@ nav#dot-nav.red a:first-child {
   left: -21%;
 
 }
+.photo {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  border-radius: 1em;
+ }
+.p1{
+  top: 57%;
+  left: 12%;
+}
+.p2{
+  top: 57%;
+  left: 37.3%;
+}
+.p3{
+  top: 57%;
+  right: 12.3%;
+}
 #page5{
   background-color:#F75BF0;
   position: relative;
@@ -694,6 +704,32 @@ nav#dot-nav.red a:first-child {
 .i19{
   top: 58%;
   right: 2%;
+}
+.photo1 {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  border-radius: 1em;
+ }
+.p4{
+  top: 27%;
+  left: 16.3%;
+}
+.p5{
+  top: 60%;
+  left: 9.3%;
+}
+.p6{
+  top: 27%;
+  right: 4.2%;
+}
+.p7{
+  top: 27%;
+  right: 33.3%;
+}
+.p8{
+  top: 62%;
+  right: 17.3%;
 }
 #page6{
   background-color:#F75BF0;
@@ -767,4 +803,21 @@ nav#dot-nav.red a:first-child {
   top: 45%;
   left: 5%;
 }
-
+.photo2 {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  border-radius: 1em;
+ }
+.p9{
+  top: 27%;
+  left: 12%;
+}
+.p10{
+  top: 43%;
+  right: 37.3%;
+}
+.p11{
+  top: 43%;
+  right: 8.3%;
+}

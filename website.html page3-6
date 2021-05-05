@@ -95,7 +95,15 @@
   </section>
   <section id="page7"></section>
   <section id="page8"></section>
-  <section id="page9" class="content">
+  <section id="page9"></section>
+  <section id="page10" class="content">
+  <div class="got text"><p>MEMBERS</p></div>
+  <div class="photo5 p12"></div>
+  <div class="photo6 p13"></div>
+  <div class="photo6 p14"></div>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/181431140_801199417460628_8364786959014703072_n.png?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGs-aY1F7zD5IUUxk8fCk57gkbdvlApEfmCRt2-UCkR-bw3TDx-SF3WK7z65VxWNBVY8zsavT3rU-HLRw2Quzk_&_nc_ohc=3w6as4C07XgAX9xKAtI&_nc_ht=scontent.fbkk13-2.fna&oh=ee1ba22ea76c469a36b6b560a1807262&oe=60B7D71F" class="photo4 p120"></img>
+  <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/179972974_1139236873245094_2736516658107989506_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeG0T7EFQ2a-q3wD2h8wxBje_NCf7sNFagH80J_uw0VqAds0n7TViTs6mynDyvwuN51y9X-MninZClALJEhjgK58&_nc_ohc=-cs4Uwdayr8AX_fxrpk&_nc_ht=scontent.fbkk12-4.fna&oh=8c41defe47006ed69afd4f2df64b7f26&oe=60B672B3" class="photo4 p13"></img>
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.15752-9/180252527_334471488112871_6036171605087579369_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEDLp62SrNYrgHCaNY6qzvbPdvl2hnsQSQ92-XaGexBJF-jVl7LKggeJVyJpDoLUm17IrPgzrWn77xT_9WhiG1v&_nc_ohc=LccyEBm7vckAX8Mhs7I&_nc_ht=scontent.fbkk13-2.fna&oh=f2daad477e7dd999bb8146db63afa8c7&oe=60B65928" class="photo4 p14"></img>
     <!-- section buttons -->
     <div class="buttons">
       <div class="btn from-center"><a href="#header">To top<i data-feather="echevron-right"></i></a></div>

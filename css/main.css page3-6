@@ -821,3 +821,61 @@ nav#dot-nav.red a:first-child {
   top: 43%;
   right: 8.3%;
 }
+#page10{
+  background-color:#000;
+  position: relative;
+  overflow: hidden; 
+}
+.p12{
+  top: 29%;
+  left: 34%;
+}
+.p120{
+  top: 32%;
+  left: 35.5%;
+}
+.photo4 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  border-radius: 50%;
+ }
+ .photo5 {
+  width: 450px;
+  height: 450px;
+  position: absolute;
+  border-radius: 50%;
+  background: #9CAB70 ;
+ }
+ .photo6 {
+  width: 425px;
+  height: 425px;
+  position: absolute;
+  border-radius: 50%;
+  background: #fff;
+ }
+.p13{
+  top: 29%;
+  right: 4%;
+}
+.p14{
+  top: 29%;
+  left: 2%;
+}
+.got{
+  width: 200%;
+  height: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+}
+.text{
+  top:-2%;
+  left: -50%;
+  color: #8939E1 ;
+  font-size: 6vw;
+  font-weight: 700;
+  text-align: center;
+}

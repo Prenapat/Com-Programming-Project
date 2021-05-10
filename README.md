@@ -1,5 +1,5 @@
 # Com-Programming-Project
-ชื่อโครงงาน    :  Light is Easy
+# ชื่อโครงงาน    :  Light is Easy
 
 ผู้จัดทำ        :  นางสาวปรีณาภัสร์  พุ่มเจริญ    63070103
 

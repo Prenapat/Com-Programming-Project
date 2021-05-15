@@ -16,3 +16,8 @@
 
 
 Website : https://nifty-wescoff-0f655e.netlify.app/ (เปิดในคอมจะสวยมากกกกก แนะนำ!!!!!!!!!!!)
+poster : file:///C:/Users/asus/Downloads/work_com-pro2.pdf
+
+
+
+

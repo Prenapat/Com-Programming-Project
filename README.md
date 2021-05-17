@@ -18,6 +18,5 @@
 Website : https://nifty-wescoff-0f655e.netlify.app/ (เปิดในคอมจะสวยมากกกกก แนะนำ!!!!!!!!!!!)
 
 Poster : https://imgur.com/a/AoOjTr0
-![image](https://imgur.com/a/AoOjTr0.jpg)
 
 Video : https://youtu.be/IjIMxDU39Z8

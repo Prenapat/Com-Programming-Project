@@ -21,4 +21,3 @@ Poster link : https://imgur.com/a/AoOjTr0.jpg
 ![image](https://i.imgur.com/Btr5ORx.jpg)
 
 Video : https://youtu.be/IjIMxDU39Z8
-[![Watch the video](https://youtu.be/IjIMxDU39Z8.jpg)](https://youtu.be/IjIMxDU39Z8)

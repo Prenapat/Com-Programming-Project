@@ -21,3 +21,4 @@ Poster : https://imgur.com/a/AoOjTr0.jpg
 ![image](https://i.imgur.com/Btr5ORx.jpg)
 
 Video : https://youtu.be/IjIMxDU39Z8
+![video](https://youtu.be/IjIMxDU39Z8)

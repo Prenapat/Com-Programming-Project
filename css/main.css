@@ -844,6 +844,11 @@ nav#dot-nav.red a:first-child {
   position: absolute;
   border-radius: 1em;
  }
+.image1:hover{
+  transform: scale(1.2);
+  background-color: #525d7e;
+  opacity: 80%;
+}
 .i1{
   top: 10%;
   left: 4%;

@@ -1,5 +1,4 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
 @font-face {
   font-family: fc-minimal-bold-italic;
   src: url(FC-Minimal/FC_Minimal_Bold_Italic.ttf);
@@ -319,8 +318,14 @@ nav#dot-nav.red a:first-child {
   user-select: none;
 }
 @keyframes example {
-from {background-color: red;}
-to {background-color: yellow;}
+  0% {background-color: red;}
+  14.28% {background-color: orange;}
+  28.56% {background-color: yellow;}
+  42.84% {background-color: green;}
+  57.12% {background-color: blue;}
+  71.4% {background-color: indigo;}
+  85.68% {background-color: purple;}
+  100% {background-color: red;}
 }
 
 .btn a{
@@ -627,7 +632,7 @@ to {background-color: yellow;}
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info7_bg{
@@ -639,7 +644,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info7_txt{
@@ -668,7 +673,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info8_txt1{
@@ -684,7 +689,7 @@ to {background-color: yellow;}
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info9_bg{
@@ -696,7 +701,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info9_txt{
@@ -716,7 +721,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info10_txt{
@@ -731,7 +736,7 @@ to {background-color: yellow;}
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info11_bg{
@@ -744,7 +749,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .info11_txt{
@@ -801,6 +806,7 @@ to {background-color: yellow;}
   font-weight: bolder;
   background-position: bottom;
 }
+
 /* page3-6 +10*/
 #page3{
   background-color: rgb(0, 123, 28);
@@ -891,7 +897,7 @@ to {background-color: yellow;}
   height:10%;
   background:#F75BF0;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .rec4{
@@ -902,7 +908,7 @@ to {background-color: yellow;}
   height:10%;
   background:#F75BF0;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .image1 {
@@ -945,7 +951,7 @@ to {background-color: yellow;}
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .trees1{
@@ -963,7 +969,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt3{
@@ -1009,7 +1015,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt4{
@@ -1020,21 +1026,12 @@ to {background-color: yellow;}
   font-weight: bolder;
 }
 
-
-
-
-
-
-
-
-
-
 #page5{
   background-color:#F75BF0;
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .trees1{
@@ -1052,7 +1049,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt5{
@@ -1081,7 +1078,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt6{
@@ -1092,18 +1089,12 @@ to {background-color: yellow;}
   font-weight: bolder;
 }
 
-
-
-
-
-
-
 #page6{
   background-color:#F75BF0;
   position: relative;
   overflow: hidden;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .trees{
@@ -1121,7 +1112,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt{
@@ -1150,7 +1141,7 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 .txt2{
@@ -1160,22 +1151,6 @@ to {background-color: yellow;}
   text-align: center;
   font-weight: bolder;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #page10{
   background-color:#000;
